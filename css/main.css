@@ -1,0 +1,46 @@
+body {
+    font-family: "Montserrat Regular";
+    height: 975px;
+}
+
+header {
+    margin: 0 auto;
+    width: 550px;
+    font-size: 21px;
+}
+
+h1,
+h3,
+h5,
+h6 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1 {
+    color: #00B5B7;
+}
+
+h6 {
+    font-weight: 900;
+    color: #69575d;
+}
+
+h6,
+h5,
+p {
+    color: #B3AA89;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    height: 420px;
+}
+
+img {
+    box-sizing: border-box;
+    height: 66px;
+    width: 66px;
+}
